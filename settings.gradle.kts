@@ -12,4 +12,4 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ktor-kotlin-microservice"
+rootProject.name = "ktor-kotlin-microservice-boilerplate"
