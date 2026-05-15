@@ -1,4 +1,4 @@
-# Ktor Microservice Boilerplate
+# Ktor Kotlin Microservice
 
 A production-minded Ktor/Kotlin REST microservice starter using Netty, Kotlin serialization, structured JSON responses, request IDs, tests, Docker, and GitHub Actions.
 
