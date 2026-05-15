@@ -1,0 +1,8 @@
+services:
+  api:
+    build: .
+    container_name: ktor-microservice
+    env_file:
+      - .env
+    ports:
+      - "8080:8080"
